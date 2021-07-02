@@ -394,7 +394,7 @@ img{
     font-size: 25px;
 }
 .leftside4 a:hover{
-    color: rgb(0, 153, 255);
+    color: black;
     transition: 0.9s;
 }
 .leftside4 a:after{
