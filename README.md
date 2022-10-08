@@ -1,1 +1,3 @@
-# INFOX-EverythingAboutCovid-19![image](https://user-images.githubusercontent.com/70832614/194729411-599df5fa-8333-4ebc-b8cb-7f1a72da2807.png)
+💡First ever project done in the college
+💡Infox - A website created using HTML,CSS, JS is a portray of the COVID-19 info.
+![image](https://user-images.githubusercontent.com/70832614/194729511-74ec1ef6-b785-4afa-95aa-2220bc7e9577.png)
